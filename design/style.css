@@ -1,0 +1,110 @@
+* {
+    /* outline: 1px solid red; */
+    margin: 0;
+    padding: 0;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+#judul{
+    margin-top: 20%;
+    font-size: 60px;
+    color: #23155B;
+}
+#subjudul{
+    margin-top: 27%;
+    color: #23155B;
+}
+.btnregis{
+    margin-top: 31.2%;
+    width: 13%;
+    margin-left: 43%;
+}
+.btnlogin{
+    margin-top: 31.2%;
+    width: 13%;
+    margin-left: 7%;
+}
+.imgindx{
+    width: 2130px;
+    height: 1170px;
+    left: 0px;
+    top: 69px;
+    opacity: 15%;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+/* login */
+.tittlelogin{
+    font-size: 230%;
+    color: white;
+}
+.bwhlgn{
+    font-size: 120%;
+    color: white;
+}
+#btnreg{
+    color: white;
+}
+#btnreg:hover{
+    color:gray;
+}
+#formlgn{
+    width: 75%;
+    align-items: center;
+    margin-top: 15%;
+    margin-left: 0%;
+}
+.cardlogin{
+    align-items: center;
+    width: 30%;
+    height: 600px;
+    background-color:#23155B;
+    margin-left: 34%;
+    margin-top: 9%;
+    border-radius: 4%;
+}
+.bodycardlgn{
+    margin-top: 21%;
+    margin-left: 23.5%;
+}
+.pass{
+    background-color: white;
+    align-items: center;
+    height:  50px;
+    margin-bottom: 10%;
+}
+#eyeicon{
+    width:10%;
+}
+
+/* Register */
+
+.formregis{
+    width: 40%;
+    align-items: center;
+    height: 950px;
+    background-color:#23155B;
+    margin-left: 29%;
+    border-radius: 4%;
+}
+.bodyformregis{
+    margin-top: 10%;
+    margin-left: 3%;
+}
+#formreg2{
+    width: 165%;
+    margin-left: 28%;
+    height: 80px;
+    margin-bottom: 11%;
+    align-items: center;
+}
+#formreg{
+    width:  60%;
+    align-items: center;
+    margin-top: 13%;
+    margin-left: 11%;
+}
+#eyeiconreg{
+    width:8%;
+    margin-left: 7%;
+}
+
